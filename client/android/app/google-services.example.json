@@ -1,0 +1,23 @@
+{
+  "project_info": {
+    "project_number": "720453653584",
+    "project_id": "wbis-ba283",
+    "storage_bucket": "wbis-ba283.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720453653584:android:c98d9010b1aad9cfc26d55",
+        "android_client_info": {
+          "package_name": "com.example.wbis_app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "FILL_LOCALLY"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

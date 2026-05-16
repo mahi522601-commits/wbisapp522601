@@ -1,0 +1,1 @@
+"""WBIS FastAPI application package."""
